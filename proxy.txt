@@ -1,3 +1,5 @@
-# Dán proxy vô đây (trên 300 proxy càng nhiều càng tốt)
+# Dán proxy (http://123.45.67.89:8080
+http://98.76.54.32:3128
+...)
 # Ví dụ http://123.123.123:9999 hoặc 123.123.123:9999
 
